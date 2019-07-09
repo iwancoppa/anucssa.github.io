@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>{{ page.title }}</title>
+		<link rel="stylesheet" href="/assets/main.css">
+	</head>
+	<body>
+		<header>
+			<h1>
+				<svg viewBox="10 10 200 80" width="200" height="80">
+					<path d="M 50,15 C 30.729247,15 15,30.72926 15,50 15,69.27074 30.729247,85 50,85 V 75 C 36.133645,75 25,63.866351 25,50 25,36.133651 36.133645,25 50,25 Z m 65,0 C 95.729252,15 80,30.72926 80,50 80,63.866341 68.86634,75 55,75 V 85 C 74.270741,85 90,69.27074 90,50 90,36.133661 101.13366,25 115,25 Z m 50,0 c -19.27075,0 -35,15.72926 -35,35 0,13.866341 -11.13366,25 -25,25 v 10 c 19.27074,0 35,-15.72925 35,-35 0,-13.866339 11.13366,-25 25,-25 z m 5,0 v 10 c 12.15244,0 22.20332,8.55207 24.50293,20 H 170 v 10 h 25 v 30 h 10 V 50 C 205,30.72926 189.27074,15 170,15 Z"/>
+				</svg>
+			</h1>
+			<h2>The ANU Computer Science Students’ Association</h2>
+			<nav><a href="/">About Us</a> / <a href="/news">News & Events</a> / <a href="/resources">Resources</a></nav>
+		</header>
+		{{ content }}
+	</body>
+
+</html>

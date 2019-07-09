@@ -1,0 +1,99 @@
+@font-face {
+	font-family: 'Concrete Roman';
+	src: url('Concrete-Roman.woff2') format('woff2'),
+		url('Concrete-Roman.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Concrete Roman';
+	src: url('Concrete-Roman-Italic.woff2') format('woff2'),
+		url('Concrete-Roman-Italic.woff') format('woff');
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Concrete Roman';
+	src: url('Concrete-Roman-Bold.woff2') format('woff2'),
+		url('Concrete-Roman-Bold.woff') format('woff');
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: 'Concrete Roman';
+	src: url('Concrete-Roman-BoldItalic.woff2') format('woff2'),
+		url('Concrete-Roman-BoldItalic.woff') format('woff');
+	font-weight: bold;
+	font-style: italic;
+}
+
+a {
+	color: #3f7fbf;
+}
+
+article {
+	margin-bottom: 60px;
+}
+
+body {
+	margin: 0 auto;
+	background-color: #1f1f1f;
+	color: #dfdfdf;
+	font: 20px "Concrete Roman", serif;
+	max-width: 750px;
+}
+
+body > header {
+	margin-top: 24px;
+	display: grid;
+	grid-column-gap: 20px;
+	font-size: 24px;
+}
+
+body > header > h1 {
+	margin: -5px;
+	grid-column-start: 1;
+	grid-row: 1 / span 2;
+	justify-self: right;
+	color: #ffbf3f;
+}
+
+body > header > h1 > svg path {
+	fill: none;
+	stroke: #ffbf3f;
+	stroke-width: 1.5;
+	stroke-linejoin: round;
+}
+
+body > header > h2 {
+	grid-column-start: 2;
+	grid-row-start: 1;
+	font: inherit;
+	margin: 0;
+	color: #ffbf3f;
+}
+
+body > header > nav {
+	grid-column-start: 2;
+	grid-row-start: 2;
+	margin: 0;
+}
+
+body > header > nav > a {
+	color: #3f7fbf;
+	text-decoration: none;
+}
+
+article h1, article h2 {
+	font-size: 24px;
+}
+
+@media (max-width: 774px) {
+	body {
+		margin: 12px;
+	}
+
+	body > header {
+		display: unset;
+		text-align: center;
+	}
+}
