@@ -2,4 +2,4 @@
 layout: default
 title: Resources
 ---
-* [Constitution](constitution.pdf) (amended 14th March 2018)
+* [Constitution](/assets/2019-07-22-constitution.pdf) (amended 22 July 2019)
