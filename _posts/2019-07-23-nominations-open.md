@@ -15,12 +15,10 @@ The following positions are open for nominations:
 *	Vice-President
 *	Treasurer
 *	Secretary
-
 *	Industry Representative
 *	Postgraduate Representative
 *	Diversity Representative
 *	International Representative
-
 *	General Representatives (3)
 
 Note that to nominate for any position other than General
