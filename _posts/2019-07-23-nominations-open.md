@@ -28,9 +28,9 @@ To apply for one or more positions, please fill out the [nomination
 form](https://anucssa.typeform.com/to/sIe4Ub).
 
 Your candidate statement will be published to all members prior to the
-Annual General Meeting (to be held on the 23rd of August - time and
-location TBC). Elections for contested positions will be held at the
-AGM.
+Annual General Meeting (to be held on the ~~23rd~~ 21st of August -
+time and location TBC). Elections for contested positions will be held
+at the AGM.
 
 All nominations are welcome - if you're keen to get involved, even if
 you've not had much involvement with the CSSA committee in the past,
