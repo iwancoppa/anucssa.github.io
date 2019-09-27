@@ -1,29 +1,13 @@
 @font-face {
-	font-family: 'Concrete Roman';
-	src: url('Concrete-Roman.woff2') format('woff2'),
-		url('Concrete-Roman.woff') format('woff');
+	font-family: "PT Sans";
+	src: local("PT Sans"), local("PTSans-Regular"), url("PTS55F.woff2") format("woff2"), url("PTS55F.woff") format("woff");
+	font-weight: normal;
 }
 
 @font-face {
-	font-family: 'Concrete Roman';
-	src: url('Concrete-Roman-Italic.woff2') format('woff2'),
-		url('Concrete-Roman-Italic.woff') format('woff');
-	font-style: italic;
-}
-
-@font-face {
-	font-family: 'Concrete Roman';
-	src: url('Concrete-Roman-Bold.woff2') format('woff2'),
-		url('Concrete-Roman-Bold.woff') format('woff');
+	font-family: "PT Sans";
+	src: local("PT Sans Bold"), local("PTSans-Bold"), url("PTS75F.woff2") format("woff2"), url("PTS75F.woff") format("woff");
 	font-weight: bold;
-}
-
-@font-face {
-	font-family: 'Concrete Roman';
-	src: url('Concrete-Roman-BoldItalic.woff2') format('woff2'),
-		url('Concrete-Roman-BoldItalic.woff') format('woff');
-	font-weight: bold;
-	font-style: italic;
 }
 
 a {
@@ -38,7 +22,7 @@ body {
 	margin: 0 auto;
 	background-color: #1f1f1f;
 	color: #dfdfdf;
-	font: 20px "Concrete Roman", serif;
+	font: 20px "PT Sans", sans-serif;
 	max-width: 750px;
 }
 
