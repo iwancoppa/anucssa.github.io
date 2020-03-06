@@ -2198,3 +2198,134 @@ Submissions to the database are closed for now; they may be re-opened in the fut
 > It's just bigger than expected ~Pete defining Chonk
 
 2019-08-13 14:54:41
+
+> Just USHART the bits across the wire - Jon
+
+2019-10-14
+
+> All you need is a Tony Robins book and five lines of cocaine and you're basically manager material - Myles
+
+2019-10-15
+
+> "Maybe you should circumcise that elephant's nose" - Chris
+
+2019-10-16
+
+> "I'm generally more pro-infanticide than most people" - Abi
+
+2019-10-16
+
+> How do i kill my children? - Josh
+
+2019-10-16
+
+> The Boston tea party wasn't actually about tea, it was about hentai - Robert
+
+2019-10-16
+
+> Toto, I don't think we're in Java anymore... - Adi
+
+2019-10-16
+
+> "I can feel the drugs kicking in" - Barely legal Jeffy
+
+2019-10-21
+
+> “I’m used to male being the end you wave around” - Jeffy
+
+2019-10-23
+
+> "I'm a Bepis man" -Rohan
+
+2019-10-24
+
+> Human love started with sharing meat - Abigail
+
+2019-10-31
+
+> "It's like drug dealers giving you the first one for free" - Felix "Except the drug is plagarism"
+
+2019-11-04
+
+> “That’s, I think, the deeper message of Tom and Jerry” - Adi
+
+2019-11-05
+
+> "Sophie: I ordered 11 pizza
+> Prof Blackburn: I said order 24"
+
+2019-11-05
+
+> "Trespassing? I don't know what you mean..." - Felix
+
+2019-11-05
+
+> "There's a right amount of chaos for everything" - Abigail
+
+2019-11-06
+
+> “Racism is a good meme” - Adi
+
+2019-11-08
+
+> “Dude this system is so embedded, it’s ten miles up my asshole” - Jon
+
+2019-11-09
+
+> “Religion is the original fandom” - Jeffy
+
+2019-11-10
+
+> Abi: “That’s how you engineer a pathogen”
+> Jeffy: “What, you give it Hulk powers?”
+
+2020-02-18
+
+> "I'm a black person" - Sophie
+
+2020-02-18
+
+> "Killing babies is not always OK" - Abigail
+
+2020-02-20
+
+> "There are only very specific situations in which killing babies is OK" - Abigail
+
+2020-02-20
+
+> "MaChINe Le'rning" -Rohan (in a nasal voice)
+
+2020-02-21
+
+> "My office hours are 5-7pm at 4 Hackett Gardens. Bring a 6 pack" ~Jon
+
+2020-02-26
+
+> "Let's here what my lecturer think a grope is" ~Jarrah mishearing Sophie
+
+2020-03-03
+
+> David: "Can you define rhetoric?"
+> Sand: "Can you use a dictionary?"
+
+2020-03-05
+
+> “I embezzle because I think it’s ok” - Felix
+
+2020-03-05
+
+> Also “I am my own checks and balances” - Felix
+
+2020-03-05
+
+> Look, if you go blind, I will steal your wallet after pushing you into oncoming traffic.
+> - Chris
+> That's fair.
+> - David
+
+2020-03-06
+
+> "For a game that Sophie plays with David, that's more tame" ~Abi
+
+2020-03-06
+
