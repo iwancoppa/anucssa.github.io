@@ -2,7 +2,7 @@
 layout: default
 title: Resources
 ---
-* [Constitution](/assets/2019-08-21-constitution.pdf) (Includes amendments up to Annual General Meeting, 21 August 2019)
+* [Constitution](/assets/constitution.pdf) (Includes amendments up to Ordinary General Meeting, 18 February 2020)
 
 Minutes
 -------
