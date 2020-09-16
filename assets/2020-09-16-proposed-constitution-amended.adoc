@@ -1,6 +1,6 @@
 = Constitution
 ANU CSSA <anucssa@anu.edu.au>
-22 September 2020: Annual General Meeting
+23 September 2020: Annual General Meeting
 
 :asciimath:
 :stem:
