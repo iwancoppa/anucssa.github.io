@@ -1,0 +1,228 @@
+= Constitution
+ANU CSSA <anucssa@anu.edu.au>
+22 September 2020: Annual General Meeting
+
+:asciimath:
+:stem:
+:sectnums:
+
+== Name
+
+The name of the association is The Australian National University Computer Science Students' Association.
+
+== Definitions
+
+In this constitution, unless the contrary intention appears:
+
+[horizontal]
+ANU:: means Australian National University.
+ANUSA:: means The Australian National University Students' Association.
+Clubs Council:: means the Clubs Council of ANUSA and PARSA.
+majority:: means the next whole number above half; in mathematical terms, asciimath:[floor(n/2)+1].
+PARSA:: means The Australian National University Postgraduate And Research Students' Association.
+student member:: means a member of the association who is a student of the ANU.
+teaching day:: means a working day that falls during an ANU semester and not during a teaching break.
+two-thirds majority:: means the next whole number above two thirds; in mathematical terms, asciimath:[floor((2n)/3)+1].
+
+== Objects
+
+The objects of the association are to encourage the study and practice of computer science, software engineering, and related fields by students of the ANU.
+
+== Affiliation
+
+. The association is affiliated to the ANU College of Engineering & Computer Science and to Clubs Council.
+
+. Anything in this constitution which is inconsistent with ANUSA Clubs Regulations and Policies is void to the extent of that inconsistency.
++
+The association must fulfil its obligations under ANUSA Clubs Regulations.
+
+. Any interpretation of, or dispute under, this constitution may be appealed to the secretary of Clubs Council. The decision of the secretary may be appealed as described in the constition and regulations of ANUSA.
+
+== Membership
+
+. A person becomes a member of the association --
+
+.. when they inform the association that they wish to become a member, having paid the membership fee and, if they are not a student of the ANU, having been approved by the committee; or
+
+.. when a motion is passed by a two-thirds majority at a general meeting making them a life member; or
+
+.. when they become a committee member.
+
+. A person's membership of the association ends --
+
+.. when they inform the association that they wish to end their membership; or
+
+.. when a motion is passed by a two-thirds majority at a general meeting ending their membership; or
+
+.. at the end of a calendar year, unless they are a committee member or life member.
+
+. The committee may determine a membership fee not exceeding $20.
++
+The committee may permit a person to not pay a membership fee, or pay a reduced membership fee.
+
+. The secretary must maintain a list of names and email addresses of members.
+
+== Committee
+
+. [[subsection-6_1]] The association is controlled and managed by a committee of --
+
+.. the president; and
+
+.. the vice-president; and
+
+.. the treasurer; and
+
+.. the secretary; and
+
+.. the industry officer; and
+
+.. the communications officer; and
+
+.. the postgraduate officer; and
+
+.. the diversity officer; and
+
+.. the international officer; and
+
+.. 3 ordinary committee members.
+
+. The committee may appoint up to 3 further ordinary committee members in addition to those mentioned in <<subsection-6_1,subsection 6(1)>>.
+
+. If one or more positions on the committee become vacant, the remaining members of the committee may appoint a person to that position.
+
+. The trustees of the association are the president, vice-president, treasurer, and secretary.
+
+. Only students of the ANU may be elected or appointed to a position on the committee other than that of ordinary committee member.
++
+A member of the committee that ceases to be a student does not lose their position as a result.
+
+. A person may not hold more than one position on the committee.
+
+. A member of the committee may resign, or a motion may passed by a two-thirds majority at a general meeting removing them from their position.
+
+. At least a majority of members of the committee must be present (including by electronic or other means) to constitute a meeting of the committee or exercise its powers.
+
+. Decisions of the committee are made by motion passed by a majority of committee members present and voting at a meeting of the committee, or by motion passed by a majority of committee members circulated outside of a meeting.
+
+. The committee is bound by a motion passed by a majority of members at a general meeting.
+
+. The committee and each member of the committee may delegate their powers and responsibilities (other than this power of delegation) to any person or group of people.
+
+== Committee -- election
+
+. The committee must appoint a willing person as the returning officer for the election of committee members no later than four weeks before an annual general meeting.
+
+. The returning officer must not nominate for any position in the election for which they are the returning officer.
+
+. The committee must give all assistance necessary for the running of the election (including, but not limited to, usage of the membership roll and the association's email and social media) to the returning officer.
+
+. The returning officer must give notice to all members calling for nominations for all positions in <<subsection-6_1,subsection 6(1)>> no later than three weeks before an annual general meeting.
++
+Nominations must be made by the nominee, in the manner and by the date directed by the returning officer, listing in preference order which position(s) they are nominating for and stating, in no more than 300 words, their suitability for those position(s).
+
+. The returning officer must give notice to all members of the name, nominated position(s), and statement of each candidate no later than one week before the annual general meeting.
+
+. If any position has more candidates than vacancies, the returning officer must conduct a secret ballot for each such position at the annual general meeting.
+
+. [[subsection-7_7]] The returning officer must determine the elected candidate(s) for each contested position using a single transferable vote method (such as the Meek STV method in the OpenSTV voting software).
+
+. [[subsection-7_8]] If one or more candidates would be elected to more than one position, they are each elected to the position for which they nominated the highest preference, and each lower-preferenced position is re-determined as though those candidates withdrew.
++
+This process is repeated as necessary.
+
+. Each elected candidate assumes their position two weeks after the conclusion of the annual general meeting.
++
+Any position not filled at an annual general meeting becomes vacant two weeks after the conclusion of the meeting.
+
+. [[subsection-7_10]] If a majority of the trustee positions would become vacant in this way, Clubs Council may appoint those positions on an interim basis or dissolve the association.
+
+. [[subsection-7_11]] If Clubs Council appoints positions in this way, the committee must call a special general meeting as described in <<subsection-9_4,subsection 9(4)>> as soon as is practical.
+
+== Committee -- responsibilities
+
+. The treasurer must keep records of the income and expenditure of the association, and report on these to each annual general meeting.
+
+. The secretary must keep minutes of --
+
+.. elections and appointments of committee members; and
+
+.. the names of committee members present at a committee meeting or student members present at a general meeting; and
+
+.. proceedings of committee and general meetings.
+
+. The secretary must keep in their custody all records (inclding minutes) of the association, and make these available for inspection upon the request of a member.
+
+== General meetings
+
+. The committee must call an annual general meeting of the association once per calendar year.
+
+. The committee may call an ordinary general meeting of the association as it considers appropriate, not more than once per ANU semester.
+
+. The committee must call a special general meeting of the association within 10 teaching days of receiving a petition of 10 members of the association calling for such a meeting. Such a meeting must only consider motions called for in the petition.
+
+. [[subsection-9_4]] The committee must call a special general meeting of the association as soon as is practical after Clubs Council appoints trustees as described in <<subsection-7_11,subsection 7(11)>>. Such a meeting must only consider motions to
+
+.. appoint a returning officer to accept nominations, then conduct an election of those trustee positions using the method described in <<subsection-7_7,subsections 7(7)>>-<<subsection-7_8,7(8)>>, those elected assuming their position immediately; or
+
+.. dissolve the association.
+
+== General meetings -- time and location
+
+. A general meeting must be held on a teaching day.
+
+. A general meeting must be accessible to members, and must be held on ANU campus unless circumstances outside the control of the committee prevent this.
+
+. The committee must notify members by email of the time and location of a general meeting --
+
+.. 2 weeks before an annual or ordinary general meeting; or
+
+.. 3 days before a special general meeting.
+
+== General meetings -- procedure
+
+. At least 10 student members must be present in person (including by electronic or other means) to constitute a general meeting of the association or exercise its powers.
+
+. Only student members may vote on motions or in elections at a general meeting.
+
+. A student member may appoint another student member as a proxy to vote on their behalf by notifying the secretary before or during a general meeting. One student member must not be a proxy for more than one other student member.
+
+== Funds
+
+. Funds of the association may come from membership fees, grants or reimbursments from Clubs Council or any other organ of ANU, ANUSA, or PARSA, sponsorships by other organisations, and any other sources that the committee decides.
+
+. Funds of the association may be used for the objects of the association in the way the committee decides.
+
+. Funds of the association may be expended by the committee.
+
+. The committee may allow a person to expend funds up to a particular amount not exceeding $500 for a particular purpose, or for a general purpose, without seeking approval from the committee for individual expenditures.
+
+. Funds of the association must not be given directly or indirectly to members of the association except as bona fide compensation for services rendered or expenses incurred on behalf of the association.
+
+. The financial year of the association ends on 30th June of each year.
+
+== Dissolution
+
+. The association may be dissolved --
++
+--
+.. by a motion passed by a two-thirds majority at a general meeting; or
+
+.. by the Clubs Council as described in <<subsection-7_10,subsection 7(10)>>.
+
+The association is automatically dissolved --
+
+[start=3]
+.. when the positions of all trustees are vacant, or when, at the conclusion of a special general meeting as described in <<subsection-9_4,subsection 9(4)>>, a majority of the trustee positions are vacant; or
+
+.. when the association ceases to function by natural attrition.
+--
+
+. In the event of dissolution, any funds or property of the association remaining after all debts and liabilities are satisfied must be given to ANUSA.
+
+. Members of the association are not liable to contribute to debts and liabilities of the association in the event of dissolution.
+
+== Amendment
+
+. This constitution may be amended or replaced by a motion passed by a two-thirds majority at a general meeting.
+
+. This constitution must not be amended except where the executive of Clubs Council are notified by email of the amendment at least 5 days prior to the general meeting at which the amendment is moved, requesting an interpretation as to whether the amendment will affect the eligibility of the association for re-affiliation.
