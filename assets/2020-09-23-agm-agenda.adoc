@@ -102,113 +102,15 @@ virtual pause on upkeep of the common room.
 Typically the CSSA does not see such a high surplus, but this can be attributed to the
 greatly increased income and greatly decreased expenses.
 
-////
-=== References
+<<<
 
 link:2020-06-30-surplus-deficit.pdf[Surplus and Deficit]
 
-link:2020-06-30-balance-sheet.pdf[Balance Sheet]
-////
-
 <<<
 
-////
-.Surplus and Deficit
-[cols=",>",grid=none]
-|===
+link:2020-06-30-balance-sheet.pdf[Balance Sheet]
 
-2+h|Trading Income
-
-|Donations|249.00
-
-|Event Ticket Sales|169.99
-
-|Industry Sponsorships|3,500.00
-
-|Memberships|880.00
-
-|Vending Sales|7,962.10
-
-e|Total Trading Income
-e|12,761.09
-
-2+h|Other Income
-
-|ANU Union Commission|427.07
-
-|ANUSA Events Grants|5,934.88
-
-|EFTPOS Fees|25.30
-
-|CECS Funding|2,010.00
-
-e|Total Other Income
-e|8,397.25
-
-s|Gross Income
-s|21,158.34
-
-2+h|Cost of Sales
-
-|Vending Cost of Goods Sold|4,180.39
-
-e|Total Cost of Sales
-e|4,180.39
-
-2+h|Operating Expenses
-
-|Advertising|896.83
-
-|Common Room Expense|612.02
-
-|Xero|536.28
-
-|Event Catering
-
-|5,682.45
-
-|Event Expenses
-
-|744.66
-
-|General Expenses|55.00
-
-|Stripe Fees|33.44
-
-|Vending Expenses|293.60
-
-e|Total Operating Expenses
-e|8,854.28
-
-s|Net Surplus/(Deficit)
-s|8,123.67
-////
-
-////
-== Balance Sheet
-
-As at 30 June 2020
-
-Assets::
-Bank:::
-CSSA 2 to sign:::: 8,376.39
-CSSA Transactions:::: 94.99
-Total Bank:::: 8,471.38
-Total Assets::: 8,471.38
-Liabilities::
-Current Liabilities:::
-Reimbursements Payable:::: 21.10
-Total Current Liabilities:::: 21.10
-Total Liabilities::: 21.10
-Net Assets:: 8,450.28
-Equity::
-Current Year Earnings:::
-8,123.67
-Retained Earnings:::
-326.61
-Total Equity:::
-8,450.28
-////
+<<<
 
 [appendix]
 == Proposed amendments to the constitution
